@@ -1,2 +1,14 @@
-# vue-template-project
-template project for Vue - Custom with ESLint - Vuex - Router
+# {{ name }}
+
+> Your README Description!
+
+{{ description }}
+
+````
+```bash
+npm install -g @vue/cli
+# OR
+yarn global add @vue/cli
+# Then
+vue init VertexApps/vue-template-project
+````
